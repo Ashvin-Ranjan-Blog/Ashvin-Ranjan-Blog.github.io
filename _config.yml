@@ -1,0 +1,28 @@
+title: A Small Blog
+description: A random blog to display my scientific, philisophic, and literary interests in topics which I have thought about
+
+url: https://ash.vin/
+paginate_path: 'blog/page:num/'
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: Ashvin-Ranjan
+  email: me@ash.vin
+
+remote_theme: brianmaierjr/long-haul
