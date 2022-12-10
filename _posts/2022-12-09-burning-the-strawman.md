@@ -8,6 +8,8 @@ tags:
   - Social Comments
 ---
 
+<!--more-->
+
 The idea of a strawman is not new within the realm of debate. The mischaracterization of someone's argument to attack them has been around since the 1500s (Wikipedia citing that its earliest known origin was in 1520 by Martin Luther). What I wish to explore and what I believe is very poignant at this time is the fact that the strawman is not just a trick while debating: it works out of a debate to rally those of a tribe together under a hatred of one ideology, an ideology that, while it may appear from a distance similar to the one their supposed enemy possesses, it is one fundamentally different than what the reality is.
 
 The idea that one should "know your enemy" is an idea that is preached frequently but practiced rarely. While one may believe that they fully understand the layers of their opponent's beliefs, it is most likely that they have studied the ideologies of the strawman they have unknowingly constructed within their mind. While one with a passion for debate may assume that they will be able to take down opponents with extreme precision, taking down their arguments by attacking the fundamental core of their assumptions. The truth is that even if a strawman holds a sword, it cannot attack you unless you puppeteer it to attack.
