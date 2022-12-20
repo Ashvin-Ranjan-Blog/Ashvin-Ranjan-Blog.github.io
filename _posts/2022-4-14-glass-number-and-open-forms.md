@@ -1,13 +1,6 @@
 ---
 title: 'DRAFT: The Glass Number and Interesting Open Forms'
-excerpt_separator: '<!--more-->'
 hidden: true
-categories:
-  - Drafts
-tags:
-  - Mathematics
-  - Linear Recurrences
-  - Drafts
 ---
 
 For a long time, a friend and I have been investigating linear recurrences, and in this blog post, I will briefly detail extracts from our research. You can find a complete paper [here](https://www.overleaf.com/read/rxxktbhpdrdt).
