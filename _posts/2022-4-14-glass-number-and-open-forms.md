@@ -1,6 +1,7 @@
 ---
 title: 'DRAFT: The Glass Number and Interesting Open Forms'
 excerpt_separator: '<!--more-->'
+hidden: true
 categories:
   - Drafts
 tags:
