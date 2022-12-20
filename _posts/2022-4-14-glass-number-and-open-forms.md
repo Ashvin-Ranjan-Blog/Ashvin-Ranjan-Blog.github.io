@@ -1,6 +1,7 @@
 ---
 title: 'DRAFT: The Glass Number and Interesting Open Forms'
 hidden: true
+last_modified_at:
 ---
 
 For a long time, a friend and I have been investigating linear recurrences, and in this blog post, I will briefly detail extracts from our research. You can find a complete paper [here](https://www.overleaf.com/read/rxxktbhpdrdt).
@@ -21,13 +22,13 @@ Which we can then use to state:
 
 $$\phi^2 - \phi - 1 = 0$$
 
-$$\phi^2 &= \phi + 1$$
+$$\phi^2 = \phi + 1$$
 
-$$\phi &= \pm \sqrt{1 + \phi}$$
+$$\phi = \pm \sqrt{1 + \phi}$$
 
-$$\phi &= \pm \sqrt{1 \pm \sqrt{1 \pm phi}}$$
+$$\phi = \pm \sqrt{1 \pm \sqrt{1 \pm phi}}$$
 
-$$\phi &= \pm \sqrt{1 \pm \sqrt{1 \pm \sqrt{\cdots}}}$$
+$$\phi = \pm \sqrt{1 \pm \sqrt{1 \pm \sqrt{\cdots}}}$$
 
 This is just the first in a set of many interesting open forms which can be described, here is another:
 
