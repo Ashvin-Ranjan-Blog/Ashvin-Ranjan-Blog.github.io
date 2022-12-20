@@ -40,6 +40,10 @@ liquid:
 
 # Build settings
 markdown: kramdown
+mathjax:
+  enable: true
+  combo: "tex-svg"
+  tags: "ams"
 feed:
   path: atom.xml
 
