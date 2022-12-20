@@ -19,7 +19,7 @@ Let us begin at a point of reference that many will have heard of. The Fibonacci
 $$F_n = F_{n-1} + F_{n-2}$$
 This recursive formula generates a sequence of integers (given the starting values of $1, 1$) that have a ratio which approaches the value $\phi$. $\phi$ can be described in may ways, and it is known that
 $$\phi^2 - \phi - 1 = 0$$
-Which we can then use to state
+Which we can then use to state:
 \begin{align}
 \phi^2 &= \phi + 1 \\
 \phi &= \pm \sqrt{1 + \phi} \\
