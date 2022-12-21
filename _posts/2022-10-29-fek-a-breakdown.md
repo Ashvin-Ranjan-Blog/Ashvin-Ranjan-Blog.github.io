@@ -41,14 +41,19 @@ Before we head into more complex territory, we must first discuss plurals. Plura
 Pronouns in Fek are relatively simple, as plural pronouns are merely conjugates of their singular counterparts, take, for example, the singular pronouns:
 
 "Ki": You
+
 "Noi"[^1]: Me
+
 "Si": It
+
 "Ren"[^2]: They (Singular)
 
 Now we may look at the plural pronouns:
 
 "Noien": We
+
 "Sien": It (Plural)
+
 "Renen"[^3]: They (Plural)
 
 Note that I could find a pronoun that refers to a group of people you are speaking to (in English, "You all"). If it were to exist it would most likely be "Kien." Aside from that, we can see how plural pronouns are formed based on their singular counterparts.
@@ -104,8 +109,11 @@ Finally, when indicating time, the time should always be placed at the end of th
 Question words belong at the beginning of a sentence. Here is a list of the question words I have found:
 
 "Qua": What
+
 "S'qua/Sami/Samo/Quy"[^5]: Why
+
 "Quo": Where
+
 "Quen": When
 
 ## Conditionals
