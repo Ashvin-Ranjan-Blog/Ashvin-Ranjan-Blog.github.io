@@ -100,7 +100,7 @@ $$1 = \frac{\varrho^3}{1 - \varrho}$$
 
 $$1 - \varrho = \varrho^3$$
 
-$$\varrho^3 + \varrho - 1 = 0$$'
+$$\varrho^3 + \varrho - 1 = 0$$
 
 Now, from here we are able to derive two open forms in a similar manner to those of the Plastic number, those being:
 
