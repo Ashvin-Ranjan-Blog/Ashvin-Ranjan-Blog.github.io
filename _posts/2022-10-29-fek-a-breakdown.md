@@ -1,6 +1,7 @@
 ---
-title: 'Fek: a Breakdown in Language'
-excerpt_separator: '<!--more-->'
+title: "Fek: a Breakdown in Language"
+excerpt_separator: "<!--more-->"
+last_modified_at: 2022-12-31T10:00:00-08:00
 categories:
   - Linguistics
 tags:
@@ -34,7 +35,9 @@ Prefixes also change the meaning of a noun; however, these appear to be more abs
 
 ## Plurality
 
-Before we head into more complex territory, we must first discuss plurals. Plurality in Fek is shown using the suffices of "-(e)m" and "-(e)n." I have looked for a while on what determines which suffix to use, yet I cannot come to a conclusion or set rule, and it appears that it is nearly random.
+~~Before we head into more complex territory, we must first discuss plurals. Plurality in Fek is shown using the suffices of "-(e)m" and "-(e)n." I have looked for a while on what determines which suffix to use, yet I cannot come to a conclusion or set rule, and it appears that it is nearly random.~~
+
+UPDATE: I was informed by an original speaker that my initial interpretation of plurality is incorrect. The suffix "-(e)m" indicates a place where something is. For example, "mekipa is tree, so [Mekipaem] means 'tree-place (i.e. forest).'" The suffix "-(e)n" is used to indicate plurality, and it appears that the e is omitted when the word ends with a vowel.
 
 ## Pronouns
 
