@@ -1,5 +1,5 @@
 ---
-title: 'Fek: a Breakdown in Language'
+title: 'Fek: Breaking Down Language'
 excerpt_separator: '<!--more-->'
 categories:
   - Linguistics
