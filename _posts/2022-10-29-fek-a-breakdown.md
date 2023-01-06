@@ -1,7 +1,7 @@
 ---
 title: 'Fek: Breaking Down a Language'
 excerpt_separator: '<!--more-->'
-last_modified_at: 2022-12-31T10:00:00-08:00
+last_modified_at: 2023-1-51T4:40:00-08:00
 categories:
   - Linguistics
 tags:
@@ -49,7 +49,7 @@ Pronouns in Fek are relatively simple, as plural pronouns are merely conjugates 
 
 "Si": It
 
-"Ren"[^2]: They (Singular)
+"Ren"[^2]: They (Singular)[^6]
 
 Now we may look at the plural pronouns:
 
@@ -57,7 +57,7 @@ Now we may look at the plural pronouns:
 
 "Sien": It (Plural)
 
-"Renen"[^3]: They (Plural)
+"Renen"[^3]: They (Plural)[^6]
 
 Note that I could find a pronoun that refers to a group of people you are speaking to (in English, "You all"). If it were to exist it would most likely be "Kien." Aside from that, we can see how plural pronouns are formed based on their singular counterparts. Please note that Fek does not make any distinction between subject, object, and possessive pronouns.
 
@@ -150,3 +150,4 @@ If you wish to learn more about Fek I have a document that is more of my rough t
 [^3]: "Renen" also means people.
 [^4]: The dictionary uses "ni" instead of "bo."
 [^5]: Note that these also mean "because."
+[^6]: Both "Ren" and "Renen" are contested as pronouns because they could also be translated in all examples in the dictionary as "The person."
