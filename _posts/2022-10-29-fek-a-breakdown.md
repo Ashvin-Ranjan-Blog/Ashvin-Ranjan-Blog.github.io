@@ -1,7 +1,7 @@
 ---
 title: 'Fek: Breaking Down a Language'
 excerpt_separator: '<!--more-->'
-last_modified_at: 2023-1-51T4:40:00-08:00
+last_modified_at: 2023-1-5T4:40:00-08:00
 categories:
   - Linguistics
 tags:
