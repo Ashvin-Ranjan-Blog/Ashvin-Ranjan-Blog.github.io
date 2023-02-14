@@ -1,7 +1,7 @@
 ---
-title: "Fek: a Breakdown in Language"
-excerpt_separator: "<!--more-->"
-last_modified_at: 2022-12-31T10:00:00-08:00
+title: 'Fek: Breaking Down a Language'
+excerpt_separator: '<!--more-->'
+last_modified_at: 2023-1-5T4:40:00-08:00
 categories:
   - Linguistics
 tags:
@@ -57,7 +57,7 @@ Now we may look at the plural pronouns:
 
 "Sien": It (Plural)
 
-"Renen"[^3]: They (Plural)
+"Renen"[^2]: They (Plural)
 
 Note that I could not find a pronoun that refers to a group of people you are speaking to (in English, "You all"). If it were to exist it would most likely be "Kien." Aside from that, we can see how plural pronouns are formed based on their singular counterparts. Please note that Fek does not make any distinction between subject, object, and possessive pronouns.
 
@@ -79,7 +79,7 @@ Sentences in Fek follow a [Subject] [Verb] [Object] format. For example:
 
 "Noi e raqq"
 
-In this sentence, "e" is the verb "is," and "raqq" means good or happy. This allows us to translate this sentence as "I am happy." We can use this general sentence structure to translate and create many sentences in Fek and note that if you wish to negate a verb, you need to add "bo"[^4] ahead of it.
+In this sentence, "e" is the verb "is," and "raqq" means good or happy. This allows us to translate this sentence as "I am happy." We can use this general sentence structure to translate and create many sentences in Fek and note that if you wish to negate a verb, you need to add "bo"[^3] ahead of it.
 
 ### Special Sentence Structuring
 
@@ -113,7 +113,7 @@ Question words belong at the beginning of a sentence. Here is a list of the ques
 
 "Qua": What
 
-"S'qua/Sami/Samo/Quy"[^5]: Why
+"S'qua/Sami/Samo/Quy"[^4]: Why
 
 "Quo": Where
 
@@ -146,7 +146,6 @@ Ultimately I hope that I have given an adequate overview of Fek, and while I may
 If you wish to learn more about Fek I have a document that is more of my rough thoughts when looking into it. You can find it [here](https://docs.google.com/document/d/14THmA3wxGgX4D2kwiZl0vxRNOBCxdcnxmBO6yPljIxM/edit?usp=sharing).
 
 [^1]: Initially, "00" was a synonym for "Noi," but it fell out of use quickly.
-[^2]: "Ren" also means person.
-[^3]: "Renen" also means people.
-[^4]: The dictionary uses "ni" instead of "bo."
-[^5]: Note that these also mean "because."
+[^2]: Both "Ren" and "Renen" are contested as pronouns because they could also be translated in all examples in the dictionary as "The person/people."
+[^3]: The dictionary uses "ni" instead of "bo."
+[^4]: Note that these also mean "because."
