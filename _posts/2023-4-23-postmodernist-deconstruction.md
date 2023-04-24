@@ -1,5 +1,5 @@
 ---
-title: 'Fek: Breaking Down a Language'
+title: 'Postmodernist Deconstruction'
 excerpt_separator: '<!--more-->'
 last_modified_at: 2023-1-5T4:40:00-08:00
 categories:

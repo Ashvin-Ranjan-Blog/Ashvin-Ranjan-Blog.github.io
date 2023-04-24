@@ -1,5 +1,5 @@
 ---
-title: '“Postmodernist Deconstruction”'
+title: '“Burning the Strawman”'
 excerpt_separator: '<!--more-->'
 categories:
   - Social Comments
