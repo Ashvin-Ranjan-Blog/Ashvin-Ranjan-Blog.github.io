@@ -59,7 +59,7 @@ Now we may look at the plural pronouns:
 
 "Renen"[^2]: They (Plural)
 
-Note that I could find a pronoun that refers to a group of people you are speaking to (in English, "You all"). If it were to exist it would most likely be "Kien." Aside from that, we can see how plural pronouns are formed based on their singular counterparts. Please note that Fek does not make any distinction between subject, object, and possessive pronouns.
+Note that I could not find a pronoun that refers to a group of people you are speaking to (in English, "You all"). If it were to exist it would most likely be "Kien." Aside from that, we can see how plural pronouns are formed based on their singular counterparts. Please note that Fek does not make any distinction between subject, object, and possessive pronouns.
 
 ## Verb Conjugation
 
