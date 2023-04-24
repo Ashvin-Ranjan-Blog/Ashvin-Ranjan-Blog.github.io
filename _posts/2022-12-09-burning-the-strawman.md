@@ -6,6 +6,8 @@ categories:
 tags:
   - Debate
   - Social Comments
+  - Philosophy
+  - Possibly Poor Quality
 ---
 
 <!--more-->
