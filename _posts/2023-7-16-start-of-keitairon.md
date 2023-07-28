@@ -1,6 +1,7 @@
 ---
 title: 'Making Keitairon, a Japanese Morphological Analyzer'
 excerpt_separator: '<!--more-->'
+last_modified_at: 2023-7-22T17:30:00-08:00
 categories:
   - Linguistics
 tags:
@@ -38,3 +39,9 @@ Both of these days are very similar, so it is best to instead summarize them as 
 I was able to continue on Godan Verbs (Verbs with a bit more conjugation rules) and got stuck at Past-tense, getting stuck in cycles of infinite analysis until I realized that I was using `||` instead of `&` to combine my inflection rules (I really should start reading these documents a bit more). In the end, I was still unable to get past tense working (Because it relies on one of the most inconsistent parts of Japanese conjugation), and I will have to look into it more soon.
 
 My main challenge which remains is the fact that Japanese agglutinative. I cannot work on several conjugations of Japanese simply because they end with the verb turning into a noun, an adjective, or simply another verb, and I will have to do more research and how to allow that with SFST. There is hope on the horizon though, while the list on SFST's website was broken I was still able to track down the paper for [TRMOR](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1547&context=elektrik), a Turkish FST written in SFST. I hope this will give me some useful pointers on where to go in the coming days.
+
+Day 4-7:
+
+After reading about TRMOR, I was still unable to find any useful information that could help me in my search for derivation. Seeing as I had reached complete dead-ends, I decided to contact [Professor Helmut Schmid](https://www.cis.uni-muenchen.de/~schmid/), the creator of SFST. After contacting him I was able to receive a pointer to an example of SFST, [XMOR](https://github.com/santhoshtr/sfst/tree/master/data/XMOR). In XMOR derivations are handled by creating stems and adding suffixes onto them. I have already done this with helper verbs, but after looking at the code, the way to implement derivation clicked with me suddenly. I would need to separate all conjugations which are derivations and repetitively apply them before the other conjugations could be applied to the verbs. I did this and sure enough, I was able to get derivations working with all types of verbs.
+
+However, everything is not completely perfect, I have still yet to filter out invalid conjugations, such as Passive-Casusative form, but XMOR also has some examples of that so I am not too worried about invalid conjugations at present. The current main issue is the special verbs that Japanese has. Luckily for me, there are not too many of them, but some of the verbs (specifically する and くる) present so many different conjugations that I am worried I will have to create separate conjugation charts for them. This is made even worse by the fact that I cannot deal with some noun conjugations and する verbs until I have する figured out. Along with する, I attempted to try to add Kanji to the list of possible symbols for the program, however, the compilation of the program was very slow, and the more complex this program gets, the more technical baggage I will have to overcome with the addition of kanji, especially because some grammar points have optional kanji which may be used. But for now, I will just stick to kana and hope that kanji will not be too much of a pain to implement.

@@ -1,6 +1,7 @@
 ---
 title: 'Can We Procedurally Generate Kanji?'
 excerpt_separator: '<!--more-->'
+last_modified_at: 2023-7-19T12:30:00-08:00
 categories:
   - Linguistics
 tags:
