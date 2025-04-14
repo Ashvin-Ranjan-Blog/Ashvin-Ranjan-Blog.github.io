@@ -18,10 +18,8 @@ The answer is yes, but it is not as simple as it initially seems. The first idea
 
 We do know that if we access the items in the same order they will deload in the same order, that way we can start to write out a sequence of loads and checks and see if any pattern emerges:
 
-<center>
-
 | Load | Check |
-|:----:|:-----:|
+| :--: | :---: |
 |  0   |   0   |
 |  1   |   0   |
 |  2   |   1   |
@@ -31,8 +29,6 @@ We do know that if we access the items in the same order they will deload in the
 |  6   |   3   |
 |  7   |   0   |
 | ...  |  ...  |
-
-</center>
 
 The column on the right does not immediately seem trivial to understand, so we can instead leverage resources such as the _The Online Encyclopedia of Integer Sequences_. Given the amount of research already done on sequences, it is likely that what we are looking for is there, and it is. Sequence [A025480](https://oeis.org/A025480) matches what we are looking for.
 
