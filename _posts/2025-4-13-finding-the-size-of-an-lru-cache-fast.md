@@ -21,7 +21,7 @@ We do know that if we access the items in the same order they will deload in the
 <center>
 
 | Load | Check |
-| :--: | :---: |
+|:----:|:-----:|
 |  0   |   0   |
 |  1   |   0   |
 |  2   |   1   |
