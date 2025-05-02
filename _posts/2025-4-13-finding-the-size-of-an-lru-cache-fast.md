@@ -73,10 +73,10 @@ int get_trailing_zeros(int i) {
   int out = 0;
   for (int j = 0; j < 32; j++) {
     if (!(i & 1)) {
- out++;
- }
- i >>= 1;
- }
+      out++;
+    }
+    i >>= 1;
+  }
   return out;
 }
 ```
